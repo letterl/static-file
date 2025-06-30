@@ -1,0 +1,12 @@
+# ==================================================
+# Rule for Steam Core Services
+# Description: Only contains core platform domains for store, download, and community.
+# Excludes game-specific servers.
+# ==================================================
+steampowered.com
+steamcommunity.com
+steamcontent.com
+steamusercontent.com
+steamstatic.com
+steam-chat.com
+steamserver.net
